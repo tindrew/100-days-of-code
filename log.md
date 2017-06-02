@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 1, 2017 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress** Coded for 1 1/2 hours tonight. Worked on my bootcamp course on UDEMY. Worked on Arrays and Array iteration using for loops. Moved the needle on the course frmo 40% to 41%.
+**Thoughts:** Feel pretty good about my start. Really hoping using this will keepme motivated to keep churning, and also keep me from hopping around too much, which I feel is why learning to code has been difficult for me.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Nothing to show yet
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
