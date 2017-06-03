@@ -8,14 +8,13 @@
 
 **Link to work:** Nothing to show yet
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2 June 2, 2017 (
+#####
+**Today's Progress**: Coded for an hour and 15 minutes tonight. Continued on the bootcamp course at UDEMY. Continued working on using for loops.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I am glad that I continued to code. I am not feeling like I understand loops 100%, and may revisit the loop videos tomorrow to make sure I have a good understanding of them before I move further into the course tomorrow evening. Hopefully I'll have a couple hours during the day to get through the loops again. I have to keep reminding myself that it's not about rushing through the course, but complete understanding of what I'm doing. Overall I think it was a good day. I am definitely beginning to get my head around arrays.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
