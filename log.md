@@ -8,7 +8,7 @@
 
 **Link to work:** Nothing to show yet
 
-### Day 2 June 2, 2017 (
+### Day 2 June 2, 2017 
 #####
 **Today's Progress**: Coded for an hour and 15 minutes tonight. Continued on the bootcamp course at UDEMY. Continued working on using for loops.
 
@@ -22,6 +22,4 @@
 
 **Thoughts** I think I'm starting to get the hang of loops, and tonight's little program has gone a long way to help me with that. I think with a little more practice I'll have the hang of it. I'll know for sure tomorrow. The next thing to be done is a challenge where I have to write several loops from scratch that do different things. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
