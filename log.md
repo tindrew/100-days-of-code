@@ -16,12 +16,11 @@
 
 
 
+### Day 3: June 3, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: Coded for an hour and 30 minutes. Continuing on with my Udemy course.currently the course sits at 42%. Worked on forEach and arrays. Completed a codealong, a todo list where I can add to the list and delete from it.Not anything spectacular, but made to reinforce what I'm learning.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I think I'm starting to get the hang of loops, and tonight's little program has gone a long way to help me with that. I think with a little more practice I'll have the hang of it. I'll know for sure tomorrow. The next thing to be done is a challenge where I have to write several loops from scratch that do different things. 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
