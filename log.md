@@ -27,4 +27,12 @@
 
 **Today's Progress**: It was a tough day. I spent 2 hours working on a single problem in my course. It was an array problem, where I had to make a function that would print out an array backwards. I wasn't able to find a solution to it without going to google, and decided not to look up anything. I don't want it to ruin my learning experience at this point.
 
-**Thoughts** I think I'm going to go back and watch some of the earlier javascript videos and go through some of the stuff such as the different types of loops and such, then come back to these problems. Hopefully by then I'll have a better understanding of what it is I'm trying to do. At this point I'm pretty discouraged that I wasn't able to think through a solution, and it was the only problem in the bunch. What about the other problems? I can't even get through the first one.Hopefully after another round through the basics I'll be able to better understand what it is I'm supposed to do, and get solve the problems.
+**Thoughts** I think I'm going to go back and watch some of the earlier javascript videos and go through some of the stuff such as the different types of loops and such, then come back to these problems. Hopefully by then I'll have a better understanding of what it is I'm trying to do. At this point I'm pretty discouraged that I wasn't able to think through a solution, and it was the only problem in the bunch. What about the other problems? I can't even get through the first one.Hopefully after another round through the basics I'll be able to better understand what it is I'm supposed to do, and solve the problems.
+
+
+### Day 5: June 5, 2017
+
+**Today's Progress**: time: 4 hours
+  Today I spent a lot of time trying to figure out that one single problem. I refused to google it or look at the solution video because I didn't want to "ruin my learning", lol. After a lot of trial and error, I wrote a solution that actually worked properly! I submitted it to the Teaching Assistant Ian to check and make sure it's a good one, although I'm 98% sure it's correct. Or at least, one of many solutions that would work.
+  
+**Thoughts** Given all the time I spent trying to write an answer to a single problem, I feel pretty good about what I came up with. For me, part of the learning experience is absorbing what I've learned, not just understand it and move on, which is why I refused to google the problem. the TA Ian did tell me that googling is acceptable, they don't expect us to know everything. Maybe next time I get hung up on something I'll peak at google. Today was not that day. I guess I'll see what happens tomorrow after my code gets checked. Either way I was proud to have come up with a solution. Now, on to the other problems!
