@@ -36,3 +36,39 @@
   Today I spent a lot of time trying to figure out that one single problem. I refused to google it or look at the solution video because I didn't want to "ruin my learning", lol. After a lot of trial and error, I wrote a solution that actually worked properly! I submitted it to the Teaching Assistant Ian to check and make sure it's a good one, although I'm 98% sure it's correct. Or at least, one of many solutions that would work.
   
 **Thoughts** Given all the time I spent trying to write an answer to a single problem, I feel pretty good about what I came up with. For me, part of the learning experience is absorbing what I've learned, not just understand it and move on, which is why I refused to google the problem. the TA Ian did tell me that googling is acceptable, they don't expect us to know everything. Maybe next time I get hung up on something I'll peak at google. Today was not that day. I guess I'll see what happens tomorrow after my code gets checked. Either way I was proud to have come up with a solution. Now, on to the other problems!
+
+
+### Day 6: June 6, 2017
+
+**Today's Progress**: time: 30 minutes
+ I found out that the solution I came up with was a good one. The TA Ian said it was a very creative solution,so that made me feel good. Coding is supposed to be about creativity after all. Spent 30 minutes today working on a solution for the next problem on the list. Still nothing solid yet though.
+  
+**Thoughts** Overall feeling pretty good. looking forward to making more headway on this journey.
+
+
+### Day 7: June 7, 2017
+
+**Today's Progress**: time: 30 minutes
+ came across an app for my tablet called sololearn that seems to have pretty good content. I'm going to start doing some when I have down time at work or anywhere else I don't have a computer handy. continued working on a solution to the second problem, and started Sololearn.
+**Thoughts** Still struggling with the second problem. Very tempted to watch the solution video so I can move on, but continuing to resist the urge. 
+
+### Day 8: June 8, 2017
+
+**Today's Progress**: time: 30 minutes
+Not a lot of time today. Getting ready for company this weekend. Managed to do some SoloLearn and do a little bit of writing out small functions for practice.
+
+**Thoughts** No terribly happy with today. Wishing I could spend more time on coding.
+
+
+### Day 9: June 9, 2017
+
+**Today's Progress**: time: 45 minutes
+ Today was more basic practice writing functions. I'm trying to recreate my first problem just by writing out the code. Also spent more time doing SoloLearn when I have down time.
+ 
+**Thoughts** I'm still here, plugging away. even though I'm not liking my current pace, I know that if I spend just a little time on it every day, I'll become successful. 
+
+### Day 6: June 6, 2017
+
+**Today's Progress**: time: 30 minutes
+ 
+**Thoughts** 
