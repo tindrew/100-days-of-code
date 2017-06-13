@@ -81,3 +81,8 @@ Completed the last Array problems. Turns out there were both just a for loop and
 44% into the course. I'm writing this as I'm still working, in case I fall asleep or something, lol. I'm currently to the object section, and learning interaction with objects and arrays. 
  
 **Thoughts** Feeling pretty good. I feel I'm making great progress!
+
+### Day 12: June 12, 2017 
+**Today's Progress**: time: 30 minutes
+Today I worked through some SoloLearn challenges, and some codecamp beta challenges as well. I didn't get as much done as I wanted.
+**Thoughts** One thing I learned a long time ago is that any kind of progress is made daily, doing things day in and day out. Even if I didn't get more done, at least I completed something, which moves me forward on the Slight Edge just a bit more.
