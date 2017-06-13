@@ -3,7 +3,8 @@
 ### Day 1: June 1, 2017 
 ##### 
 
-**Today's Progress** Coded for 1hr and 45 minutes tonight. Worked on my bootcamp course on UDEMY. Worked on Arrays and Array iteration using for loops. Moved the needle on the course frmo 40% to 41%. also started the javascript portion of FCC's beta curriculum. Completed 1 through 24.
+**Today's Progress** Bootcamp Course: 41% 
+Coded for 1hr and 45 minutes tonight. Worked on my bootcamp course on UDEMY. Worked on Arrays and Array iteration using for loops. Moved the needle on the course from 40% to 41%. also started the javascript portion of FCC's beta curriculum. Completed 1 through 24.
 **Thoughts:** Feel pretty good about my start. Really hoping using this will keep me motivated to keep churning, and also keep me from hopping around too much, which I feel is why learning to code has been difficult for me.
 
 **Link to work:** Nothing to show yet
@@ -67,8 +68,16 @@ Not a lot of time today. Getting ready for company this weekend. Managed to do s
  
 **Thoughts** I'm still here, plugging away. even though I'm not liking my current pace, I know that if I spend just a little time on it every day, I'll become successful. 
 
-### Day 6: June 6, 2017
+### Day 10: June 10, 2017
 
-**Today's Progress**: time: 30 minutes
+**Today's Progress**: time: 1 hour
+Completed the last Array problems. Turns out there were both just a for loop and a forEach, although they both could have been completed with for loops. after that I did some more SoloLearn problems.
  
-**Thoughts** 
+**Thoughts** I'm relieved to have those array problems out of the way. The last two were a lot easier than the first one, and that seemed to be the consensus in the Q&A section of the website. Despite the hiccup of being stuck on that first problem, I am ready and eager to keep going forward.
+
+
+### Day 11: June 11, 2017 
+**Today's Progress**: time: 1 hour Bootcamp Course: 44%
+44% into the course. I'm writing this as I'm still working, in case I fall asleep or something, lol. I'm currently to the object section, and learning interaction with objects and arrays. 
+ 
+**Thoughts** Feeling pretty good. I feel I'm making great progress!
