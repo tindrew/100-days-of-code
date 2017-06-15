@@ -82,7 +82,18 @@ Completed the last Array problems. Turns out there were both just a for loop and
  
 **Thoughts** Feeling pretty good. I feel I'm making great progress!
 
+
 ### Day 12: June 12, 2017 
 **Today's Progress**: time: 30 minutes
+
 Today I worked through some SoloLearn challenges, and some codecamp beta challenges as well. I didn't get as much done as I wanted.
 **Thoughts** One thing I learned a long time ago is that any kind of progress is made daily, doing things day in and day out. Even if I didn't get more done, at least I completed something, which moves me forward on the Slight Edge just a bit more.
+
+
+### Day 13: June 13, 2017 
+**Today's Progress**: time: 30 minutes Bootcamp Course: 45%
+
+Slowly but surely I'm moving through the course. Today I learned about Javascript Objects. I also discovered a cool website called CodeCombat, which seems aimed at younger people. You learn to code by programming a character in a game to do something, move, attack, etc. I tried it out and it's quite fun.
+
+**Thoughts** Starting to get excited about this course again. I'm getting closer to making some real stuff, and learning the back end of development. Should be quite interesting.
+
