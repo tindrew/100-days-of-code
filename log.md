@@ -97,3 +97,22 @@ Slowly but surely I'm moving through the course. Today I learned about Javascrip
 
 **Thoughts** Starting to get excited about this course again. I'm getting closer to making some real stuff, and learning the back end of development. Should be quite interesting.
 
+### Day 14: June 14, 2017 
+**Today's Progress**: time: 1 hour Bootcamp Course: 48%
+
+Moved the needle a good bit today. made it through basic DOM manipulation and starting the section on advanced. Events are next up.
+**Thoughts** I really feel that I'm retaining what I'm learning, and starting to feel as if I can code anything, lol. I know it's probably not true as of yet, but my confidence is growing.
+
+### Day 15: June 15, 2017 
+**Today's Progress**: time: 30 minutes 
+Today I completed some free codecamp beta challenges. I also decided to try and make a small javascript game for practice.
+
+**Thoughts** I remember a time when I thought coding would be impossible for me to learn. I even tried out some java and python. Nothing stuck with me until I started learning html and css, then moved into javascript, and I've really learned a ton from the bootcamp course I'm taking. I'm glad there are people like Colt Steele who put together these insanely long courses for people like me to devour.
+
+### Day 16: June 16, 2017 
+**Today's Progress**: time: 1 hour
+Started working on a javascript "Pong" style game today. I'm following a free course on Udemy. It's more of a diversion, doing something different while still learning javascript.
+
+
+**Thoughts** The short spurts of time I have sometimes during the week I'd rather spend on doing something, well, short. I'll most likely save my longer days for my bootcamp course since it takes the most time.
+
