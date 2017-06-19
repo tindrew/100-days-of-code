@@ -116,3 +116,18 @@ Started working on a javascript "Pong" style game today. I'm following a free co
 
 **Thoughts** The short spurts of time I have sometimes during the week I'd rather spend on doing something, well, short. I'll most likely save my longer days for my bootcamp course since it takes the most time.
 
+### Day 17: June 17, 2017 
+**Today's Progress**: time: 1 hour
+Progressing with the pong game. Managed to get the ball moving and bouncing. 
+
+**Thoughts** Not entirely sure I completely understand the code I'm having to do with this game tutorial. I can read the code, but there are some spots that are much more difficult. I'll keep moving though. Eventually it will all make sense I'm sure.
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+I now have the first paddle moving with the mouse in the pong game. I've started reading a javascript book that came with the game course I purchased on Udemy. 
+
+
+**Thoughts** Just to keep things updated, I do intend to go back to my bootcamp course. I wanted to take a little break from it so I don't get burned out. I was starting to feel a bit fatigued, and not wanting to stop programming I opted for this game course. It will help reinforce my javascript skills, and keep me learning. 
+
+
+
