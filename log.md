@@ -135,3 +135,52 @@ Practiced my git skills. Adding files, commiting them. I haven't used git much u
 
 **Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
 
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+
+### Day 18: June 18, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+
+
+
