@@ -122,29 +122,21 @@ Progressing with the pong game. Managed to get the ball moving and bouncing.
 
 **Thoughts** Not entirely sure I completely understand the code I'm having to do with this game tutorial. I can read the code, but there are some spots that are much more difficult. I'll keep moving though. Eventually it will all make sense I'm sure.
 
-### Day 18: June 18, 2017 
+### Day 18 June 18, 2017 
 **Today's Progress**: time: 2 hours
 I now have the first paddle moving with the mouse in the pong game. I've started reading a javascript book that came with the game course I purchased on Udemy. 
 
 
 **Thoughts** Just to keep things updated, I do intend to go back to my bootcamp course. I wanted to take a little break from it so I don't get burned out. I was starting to feel a bit fatigued, and not wanting to stop programming I opted for this game course. It will help reinforce my javascript skills, and keep me learning. 
 
-### Day 18: June 18, 2017 
+### Day 19: June 19, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
 **Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
 
 
-### Day 18: June 18, 2017 
-**Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
-
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
-
-
-### Day 18: June 18, 2017 
+### Day 20: June 20, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
@@ -152,21 +144,29 @@ Practiced my git skills. Adding files, commiting them. I haven't used git much u
 
 
 
-### Day 18: June 18, 2017 
+### Day 21: June 21, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
 **Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
 
 
-### Day 18: June 18, 2017 
+
+### Day 22: June 22, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
 **Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
 
 
-### Day 18: June 18, 2017 
+### Day 23: June 23, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+### Day 24: June 24, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
