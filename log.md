@@ -137,34 +137,29 @@ Practiced my git skills. Adding files, commiting them. I haven't used git much u
 
 
 ### Day 20: June 20, 2017 
-**Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+**Today's Progress**: time: 1 hour
+Started working on my personal website. I want to have it done for when I start to finish projects, I need some place to show case them.
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
-
+**Thoughts** I feel as though I am past the beginner stage of html and css. Probably the biggest thing for me though, is learning how to make websites responsive without resorting to a framework like bootstrap. Most of my courses essentially gloss over html and css and move directly into using bootstrap, and I haven't felt as if I have a solid grasp on html and javascript to the point where, if I had to work on someone's site that wasn't using a framework, I might not know what I was doing. So, I'm searching for a course that touches on the subject of media  queries and using strictly html and css.
 
 ### Day 21: June 21, 2017 
 **Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+Still working on my personal site. I am perhaps 20-30 percent done with it. Still a good ways to go.
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
+**Thoughts** I don't have a lot to say at this point. I'm just slogging along. I've had a lot going on with work and such, but I'm glad that coding is now a daily habit. 
 
 
 ### Day 22: June 22, 2017 
-**Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+**Today's Progress**: time: 1 hr 45 mins 
+I found two courses on udemy that cover making a responsive website using media queries. The first one is free, and kind of short, so I'll be finishing that one first. The second one I haven't decided to purchase yet.
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
+**Thoughts** The main reason i'm debating on the second is because I don't know enough about it yet. I can't figure out if it uses some kind of framework or not. I might bite the bullet tomorrow and purchase it.
 
 ### Day 23: June 23, 2017 
-**Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+**Today's Progress**: time: 3 hours
+So I went ahead and purchased the second course after finishing the free one. The free one walked through a small, simple webpage that used maybe one media query. This second course seems legit. I've done up through the first section of the website, and it's looking really good. after looking ahead in the course, it only uses some css for a grid and media queries to make it responsive. The capstone project is very detailed. 
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
+**Thoughts** Worked a lot on the second course. I'm really enjoying html and css again, now that I feel like I'm learning something solid and not just waffling trying to figure out how to put it all together.
 
 ### Day 24: June 24, 2017 
 **Today's Progress**: time: 2 hours
