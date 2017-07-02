@@ -177,8 +177,7 @@ More html and css. I am about halfway through the course already, I'm moving alo
 **Today's Progress**: time: 3 hours
 Started the capstone project. It's going well. I'm already learning things I didn't know about html, and I'm nowhere near the media query section yet.
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
+**Thoughts** This course is pretty good. The instructor talks slow, and it is easy to type along with him while listening to what he has to say. I may look into the javascript course he has. I like his pacing a lot.
 
 ### Day 27: June 27, 2017 
 **Today's Progress**: time: 2 hours
@@ -195,17 +194,15 @@ Practiced my git skills. Adding files, commiting them. I haven't used git much u
 
 
 ### Day 29: June 29, 2017 
-**Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+**Today's Progress**: time: 4 hours
+Started working on my personal site. I really need to have the basic site done so I can start posting my other work to it as I get it finished. 
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
-
-
+**Thoughts** I spent a bunch of time making a logo and then working on the first section of my site. I really needed to have some of the content done so I have something to put on it. Hoping to get it finished in the next few days.
 ### Day 30: June 30, 2017 
-**Today's Progress**: time: 2 hours
-Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+**Today's Progress**: time: 30 min
+Worked on some git, still trying to get the hang of commiting from command line in linux. Also watched a few javascript videos so I don't start losing what I learned.
 
-**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+**Thoughts** I"m still building my website. It's coming along well, I have the first section done. I wish I could work faster. Hopefully I won't always be this slow at it, lol.
 
 
 
