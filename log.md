@@ -162,14 +162,46 @@ So I went ahead and purchased the second course after finishing the free one. Th
 **Thoughts** Worked a lot on the second course. I'm really enjoying html and css again, now that I feel like I'm learning something solid and not just waffling trying to figure out how to put it all together.
 
 ### Day 24: June 24, 2017 
+**Today's Progress**: 1 hour
+  Worked more on the html and css. This course is definitely more in depth when it comes to using media queries etc. Glad I found it.
+**Thoughts** I really feel as if I'm making some headway with html5 and css. Things are starting to come together.
+
+
+### Day 25: June 25, 2017 
+**Today's Progress**: time: 2 hours
+More html and css. I am about halfway through the course already, I'm moving along at a very good pace. the beginning stuff is mostly review, I'm looking forward to getting through the course and into the capstone project.
+
+**Thoughts** I definitely need to put some stank on this and get back to the javascript. I don't want to start forgetting what I know of that because I haven't done any javascript in a couple days.
+
+### Day 26: June 26, 2017 
+**Today's Progress**: time: 3 hours
+Started the capstone project. It's going well. I'm already learning things I didn't know about html, and I'm nowhere near the media query section yet.
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+### Day 27: June 27, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
 **Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
 
 
+### Day 28: June 28, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
-### Day 18: June 18, 2017 
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+### Day 29: June 29, 2017 
+**Today's Progress**: time: 2 hours
+Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
+
+**Thoughts** I am a little frustrated that neither course went into depth on buiding websites without making them responsive without using any kind of media queries(minus what bootstrap uses). I'm beginning to wonder if I should just take their advice - forget learning to write websites completely from scratch and just use bootstrap.
+
+
+### Day 30: June 30, 2017 
 **Today's Progress**: time: 2 hours
 Practiced my git skills. Adding files, commiting them. I haven't used git much up until now, so I wanted to make sure I'm comfortable with it. Practiced some html and css. 
 
