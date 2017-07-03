@@ -198,11 +198,30 @@ Practiced my git skills. Adding files, commiting them. I haven't used git much u
 Started working on my personal site. I really need to have the basic site done so I can start posting my other work to it as I get it finished. 
 
 **Thoughts** I spent a bunch of time making a logo and then working on the first section of my site. I really needed to have some of the content done so I have something to put on it. Hoping to get it finished in the next few days.
+
 ### Day 30: June 30, 2017 
 **Today's Progress**: time: 30 min
 Worked on some git, still trying to get the hang of commiting from command line in linux. Also watched a few javascript videos so I don't start losing what I learned.
 
 **Thoughts** I"m still building my website. It's coming along well, I have the first section done. I wish I could work faster. Hopefully I won't always be this slow at it, lol.
+
+### Day 31: July 1, 2017 
+**Today's Progress**: time: 1hr 20 min
+Restarted my website. I've been learning a lot of html, and some of the different things that you can do with it. I completed the first section of my site, and rewatched some of the javascript videos from my main course. 
+
+**Thoughts** I"m still building my website. I was really expecting to have it done, but it turns out that I didn't know as much as I thought I did about html/css. The web developer courses I've been taking really gloss over it, I suppose assuming that whoever is taking it will not be focusing on the front end as much. While I'm not sure where I want to wind up (front end or backend or both) I don't like the idea of just having a rudimentary knowledge of the subject matter, and I'm certainly not going to rely on a framework until I understand what's going on with it. That's my point of view anyway.
+
+### Day 32: July 2, 2017 
+**Today's Progress**: time: 30 min
+Worked on my website, watched a couple videos. Made a new logo for the site.
+
+**Thoughts** The site is still being built. I didn't get as much done today as I would like, but I'm still plugging away. Starting to get discouraged because this website still isn't finished, and I feel like I'm banging my head against the wall.
+
+### Day 33: July 3, 2017 
+**Today's Progress**: time: 30 min
+
+**Thoughts** I"m still building my website. It's coming along well, I have the first section done. I wish I could work faster. Hopefully I won't always be this slow at it, lol.
+
 
 
 
