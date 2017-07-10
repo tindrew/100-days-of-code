@@ -222,6 +222,50 @@ Worked on my website, watched a couple videos. Made a new logo for the site.
 
 **Thoughts** I"m still building my website. It's coming along well, I have the first section done. I wish I could work faster. Hopefully I won't always be this slow at it, lol.
 
+### Day 34: July 4, 2017 
+**Today's Progress**: time: 30 min
+Got my website to a place where I feel it's good for now. 
+
+**Thoughts** I like where my website sits. I'm going to take a break for now and try to get back to working on javascript. I don't wnat to start forgetting what I've learned.
+
+### Day 35: July 5, 2017 
+**Today's Progress**: time: 30 min Watched 3-4 videos, coded a small "happy birthday" loop for a good friend of mine. Wrote it from scratch without looking at anything.
+
+**Thoughts** Today I didn't do as much as I liked, but writing the loop was for me a small milestone. I wrote it without any help, without having to look at anything. 
+
+### Day 36: July 6, 2017 
+**Today's Progress**: time: 30 min
+  Started going back through the javascript videos on my course. I just want to make sure I have a good foundation.
+
+**Thoughts** Things have been busy. I still manage to get in a little coding. Sometimes it takes a few steps backwards to get moving forward again. I just have to keep in mind that I've been coding for 36 days in a row. That in itself is worth something.
+### Day 37: July 7, 2017 
+**Today's Progress**: time: 30 min
+working on the loops section of the javascript videos again, coding along. 
+**Thoughts** 
+I seem to be retaining alot more, as I go through the exercises again I'm remembering not the solutions, but how to get them.
+
+### Day 38: July 8, 2017 
+**Today's Progress**: time: 30 min more javascript videos
+
+**Thoughts** Getting close to where I left off on the course before I stopped to work on my website. Looking forward to ticking the course over the 50% mark. I thought I was there, and then it shows 49%. Not sure why, maybe I unchecked a video or something by accident.
+
+### Day 39: July 9, 2017 
+**Today's Progress**: time: 1 hour 45 minutes
+reworked through the javascript objects videos and exercises
+
+**Thoughts** Had more time to code today and getting caught up again. Looking forward to doing some fun things with javascript. I'm beginning to really see the possibilities, how I can make websites do different things, or even make games if I want to. I want to hope that the sky really is the limit.
+### Day 40: July 10, 2017 
+**Today's Progress**: time: 3 hours
+Finished out the DOM manipulation and 98% done with Advanced DOM Manipulations sections and exercises.
+**Thoughts** Whew! I burned through a lot today. I also hit the 50% mark of the course, which makes me very happy. I feel like I'm learning a ton, and hopefully it's just going to get easier to learn as things progress. i'm beginning to think of small projects I can do on my own afterwards. Probably a good idea to have some stuff on hand to work on after I finish the course. 
+
+
+
+
+### Day 33: July 3, 2017 
+**Today's Progress**: time: 30 min
+
+**Thoughts** I"m still building my website. It's coming along well, I have the first section done. I wish I could work faster. Hopefully I won't always be this slow at it, lol.
 
 
 
