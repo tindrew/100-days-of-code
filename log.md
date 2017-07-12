@@ -254,6 +254,8 @@ I seem to be retaining alot more, as I go through the exercises again I'm rememb
 reworked through the javascript objects videos and exercises
 
 **Thoughts** Had more time to code today and getting caught up again. Looking forward to doing some fun things with javascript. I'm beginning to really see the possibilities, how I can make websites do different things, or even make games if I want to. I want to hope that the sky really is the limit.
+
+
 ### Day 40: July 10, 2017 
 **Today's Progress**: time: 3 hours
 Finished out the DOM manipulation and 98% done with Advanced DOM Manipulations sections and exercises.
@@ -262,12 +264,151 @@ Finished out the DOM manipulation and 98% done with Advanced DOM Manipulations s
 
 
 
-### Day 33: July 3, 2017 
-**Today's Progress**: time: 30 min
+### Day 41: July 11, 2017 
+**Today's Progress**: time: 45 min
+  worked some more on my pong game. 
+**Thoughts** 
+  Habit. It's the one thing that keeps things moving forward in any learning process. 21 days is what it takes to make something a habit. Day 42 has come and gone. I'm thankful to have started this journey, and I'm hoping some day to have the skills that I can pass down to my son. He's currently 1 1/2 years old. I signed up for my first Free Code Camp Meetup. It's 3 and a half hours away in Fayetteville, Arkansas. Looking forward to meeting some fellow coders.
+  
+ ### Day 42: July 12, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts** 
 
-**Thoughts** I"m still building my website. It's coming along well, I have the first section done. I wish I could work faster. Hopefully I won't always be this slow at it, lol.
+ ### Day 43: July 13, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+ ### Day 44: July 14, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
 
+ ### Day 45: July 15, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
 
+ ### Day 46: July 16, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 47: July 17, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 48: July 18, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 49: July 19, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 50: July 20, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 51: July 21, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 52: July 22, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 53: July 23, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 54: July 24, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 55: July 25, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 56: July 26, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 57: July 27, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 58: July 28, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 59: July 29, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 60: July 30, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 61: July 31, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+ ### Day 62: August 1, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 2, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 3, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 4, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 5, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 6, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 7, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+
+### Day 62: August 8, 2017 
+**Today's Progress**: time: 45 min
+  
+**Thoughts*
+  
 
 
 
