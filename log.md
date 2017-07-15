@@ -285,13 +285,10 @@ Finished out the DOM manipulation and 98% done with Advanced DOM Manipulations s
 I'm pretty pleased with my overall progress. My ability to read code and understand what is going on is growing by leaps and bounds. I'm pretty confident that in a couple months I'll be job hunting. Even though this is day 42 of this 100 documented days of coding, I've actually been coding 82 days straight. I didn't officially document my progress until this git fork, but I had been programming 40 days before this. Documenting has definitely helped me stay on track.
 
  ### Day 43: July 13, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 1 hr 
+  Completed the computer AI for my pong game. only a couple of videos to go to finish the course.
 **Thoughts*
-
- ### Day 44: July 14, 2017 
-**Today's Progress**: time: 45 min
-  
+Feeling pretty good today. I was able to find a bug in my code that was keeping me from continuing, and I was able to pass that fix along to someone else who had the same problem. Made me feel good knowing I figured it out without any help. I might be cut out for this coding thing after all.
 **Thoughts*
 
  ### Day 45: July 15, 2017 
