@@ -321,19 +321,26 @@ This project is going to be a lot of fun. I love making games! I'm thinking of w
 I got stuck a few good times. One time I had to let the group look at my code. They were able to spot the error, but this experience makes me realize that I need to learn some good debugging methods aside from checking the console for errors. I did learn that I can console.log things to see what is going on, and that may be something I'll have to do in my own code more often.
 
  ### Day 48: July 18, 2017 
-**Today's Progress**: time: 2 hours Finished the colors gam
-  The colors game is done. I got stuck a couple more times, but managed to fix the errors on my own. 
+**Today's Progress**: time: 2 hours Still working on colors game
+  Had to stop after getting stuck on an error that I just couldn't figure out. The code looked right, but it's 1am and my eyes are probably just missing it.
+  
+**Thoughts*
+
+I wanted to complete the game today but after getting stuck for a long period on a bug, I decided to give it a rest and try to figure it out tomorrow. I'm sure with fresh eyes I'll be able to find it.
+
+
+
+ ### Day 49: July 19, 2017 
+**Today's Progress**: time: 2 hours Finished the colors game
+  
 **Thoughts*
 
 This was such a fun project. Being able to fix the errors on my own really helped. There is still a lot I don't understand about JavaScript but I feel like I'm making headway. I have a couple ideas to flesh out this game, I'll update on this log once I start those pieces. For now, I'll probably be moving into jquery next.
 
 
- ### Day 49: July 19, 2017 
-**Today's Progress**: time: 45 min
-  
-**Thoughts*
-
  ### Day 50: July 20, 2017 
+ 
+ 
 **Today's Progress**: time: 45 min
   
 **Thoughts*
