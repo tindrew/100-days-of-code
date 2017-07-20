@@ -288,28 +288,45 @@ I'm pretty pleased with my overall progress. My ability to read code and underst
 **Today's Progress**: time: 1 hr 
   Completed the computer AI for my pong game. only a couple of videos to go to finish the course.
 **Thoughts*
+
 Feeling pretty good today. I was able to find a bug in my code that was keeping me from continuing, and I was able to pass that fix along to someone else who had the same problem. Made me feel good knowing I figured it out without any help. I might be cut out for this coding thing after all.
+
+### Day 44: July 14, 2017 
+**Today's Progress**: time: 30 min
+Still working on the pong game. I wanted to finish it but didn't quite get it done. Hopefully will knock it out tomorrow.
 **Thoughts*
+
+I've reached a point where all I do is think about code. When I'm not coding I think about doing it. When I first started this whole thing I wasn't really "Passionate about coding". I wanted to do web development, but my drive to do it was no where near as intense as it is now.
 
  ### Day 45: July 15, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 1 HR Completed Pong game
+  The pong game is finished. It is a rudimentary game, just two paddles, one controlled by the player, the other controlled by the computer. there's a score, a start over screen, just very basic. 
 **Thoughts*
+
+This was a fun project to get my feet wet in making games with javaScript. I fully intend to make some more. I love making games and seeing stuff happen on screen.
 
  ### Day 46: July 16, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time:  1 hr 20 minutes: Started a colors game in my Bootcamp course
+Completed the first couple videos. Set up the documents, got the html, css and JavaScript documents set up. Also completed the first rudimentary game layout.
   
 **Thoughts*
+
+This project is going to be a lot of fun. I love making games! I'm thinking of ways I can extend this one, depending of course on how far the instructor takes it.
 
  ### Day 47: July 17, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 3 hours: about halfway through the colors game
+  I did a lot today. I covered a lot of the main functionality.
 **Thoughts*
 
+I got stuck a few good times. One time I had to let the group look at my code. They were able to spot the error, but this experience makes me realize that I need to learn some good debugging methods aside from checking the console for errors. I did learn that I can console.log things to see what is going on, and that may be something I'll have to do in my own code more often.
+
  ### Day 48: July 18, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 2 hours Finished the colors gam
+  The colors game is done. I got stuck a couple more times, but managed to fix the errors on my own. 
 **Thoughts*
+
+This was such a fun project. Being able to fix the errors on my own really helped. There is still a lot I don't understand about JavaScript but I feel like I'm making headway. I have a couple ideas to flesh out this game, I'll update on this log once I start those pieces. For now, I'll probably be moving into jquery next.
+
 
  ### Day 49: July 19, 2017 
 **Today's Progress**: time: 45 min
@@ -322,7 +339,6 @@ Feeling pretty good today. I was able to find a bug in my code that was keeping 
 **Thoughts*
 
 
-#############################################################################################################################
 
 
  ### Day 51: July 21, 2017 
