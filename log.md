@@ -339,35 +339,40 @@ This was such a fun project. Being able to fix the errors on my own really helpe
 
 
  ### Day 50: July 20, 2017 
- 
- 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 30 min
+  Did a few problems on free code camp and did some css practice. 
 **Thoughts*
 
-
+CSS is a ton harder than it looks. It's very easy to grasp the syntax, but actually getting good at it is going to be a challenge.
 
 
  ### Day 51: July 21, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time:1 hour 30 min
+  Tusseled with my personal website, trying to figure out a good layout that suits me.
 **Thoughts*
+
+I'm not sure I'm anywhere near where I started with my website. I don't want to just jump on the Bootstrap bandwagon, but i'm not 100% sure I'm getting anywhere with just html and css.
 
  ### Day 52: July 22, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 2 hours
+  I finally decided on a layout for my website, and finished off the basics of it.
 **Thoughts*
 
+I decided that for my website, I'd have a static background image and scroll my content over top. I always want the background image to be visible in some way, so I'll have to see how this pans out. I'm hopeful that I can get a handle on it and get the basic site done soon. (Where have I heard that before?) Well, at least I'm trying.
  ### Day 53: July 23, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 1 hr
+  Still not further than yesterday on my site, I did learn a little bit of flex box. 
 **Thoughts*
 
+ I can't understand why CSS is so difficult to master. A good friend of mine tells me that's normal, and it takes a lot of time to really grasp what css to use and when. I suppose he's right.
  ### Day 54: July 24, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hr
+
+Started a small javascript course on a website called watchandcode.com. It's supposed to be very functional javascript, which seems right up my alley. It's short, so I should be able to put it on my list of things completed.
   
 **Thoughts*
 
+I'm still pissed about my website. I thought I had a better handle on css but It turns out I was wrong. I'll take a break and come back to it. I'm not about to let CSS beat me.
  ### Day 55: July 25, 2017 
 **Today's Progress**: time: 45 min
   
