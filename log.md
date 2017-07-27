@@ -373,15 +373,20 @@ Started a small javascript course on a website called watchandcode.com. It's sup
 **Thoughts*
 
 I'm still pissed about my website. I thought I had a better handle on css but It turns out I was wrong. I'll take a break and come back to it. I'm not about to let CSS beat me.
+
  ### Day 55: July 25, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 1 hr
+  Discovered on a website called watchandcode.com. The teacher really stresses having a process to learning, which is not something other teachers of other courses have stressed. 
 **Thoughts*
 
+I really like it so far. I am about 20% of the way through it already. It's not a long course, but it covers the fundamentals of javascript. Since I feel like I need repetition, this is a good way to get it.
+
  ### Day 56: July 26, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 1 hr 15 minutes
+  reached 36% mark of the course on Watch and code. I stopped for a bit to work on rewriting the little program we have so far. I want to make sure I have a strong grounding on the fundamentals. After this course I will move on with my bootcamp course.
 **Thoughts*
+
+It might seem like I'm doing a lot of hopping around, but I promise I'm not. I have had to seek out other sources of learning the basics, because I need to learn it. Every bit of learning counts. I don't want to skip ahead in any course any more without knowing and fully understanding what it is I'm doing.
 
  ### Day 57: July 27, 2017 
 **Today's Progress**: time: 45 min
