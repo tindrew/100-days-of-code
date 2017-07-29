@@ -377,6 +377,7 @@ I'm still pissed about my website. I thought I had a better handle on css but It
  ### Day 55: July 25, 2017 
 **Today's Progress**: time: 1 hr
   Discovered on a website called watchandcode.com. The teacher really stresses having a process to learning, which is not something other teachers of other courses have stressed. 
+
 **Thoughts*
 
 I really like it so far. I am about 20% of the way through it already. It's not a long course, but it covers the fundamentals of javascript. Since I feel like I need repetition, this is a good way to get it.
@@ -384,19 +385,24 @@ I really like it so far. I am about 20% of the way through it already. It's not 
  ### Day 56: July 26, 2017 
 **Today's Progress**: time: 1 hr 15 minutes
   reached 36% mark of the course on Watch and code. I stopped for a bit to work on rewriting the little program we have so far. I want to make sure I have a strong grounding on the fundamentals. After this course I will move on with my bootcamp course.
+  
 **Thoughts*
 
 It might seem like I'm doing a lot of hopping around, but I promise I'm not. I have had to seek out other sources of learning the basics, because I need to learn it. Every bit of learning counts. I don't want to skip ahead in any course any more without knowing and fully understanding what it is I'm doing.
 
  ### Day 57: July 27, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min
+  Finished a couple videos in the Watch and Code course. 36% complete
+**Thoughts*
+
+Gaining some understanding of Object oriented programming, scratching the surface of it at the very least. The longer I go on the better I feel about my programming journey in general. yes, I still have doubts at times and still question whether or not I'm learning. I think that's normal though in any endevor.
+
+ ### Day 58: July 28, 2017 
+**Today's Progress**: time: 1hr Advanced to 40% of the Watch and Code Course
   
 **Thoughts*
 
- ### Day 58: July 28, 2017 
-**Today's Progress**: time: 45 min
-  
-**Thoughts*
+I was watching the video on for loops, and before the teacher said what he was going to do, I added the property of whatever.length to the for loop instead of just i = 3. I know that doesn't sound huge, but it is for me to have known where the instructor was going to go before he did. It just shows that I AM retaining stuff and not just mindlessly coding :D Also I asked a question on my Web Developer course concerning whether or not I should advance or stop and find some more things to practice. I was advised to continue on, and also given a link to another thread that went into some really good stuff, which also lead to some more links to more really good stuff. Lots of reading in my future :)
 
  ### Day 59: July 29, 2017 
 **Today's Progress**: time: 45 min
