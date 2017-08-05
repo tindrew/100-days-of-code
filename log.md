@@ -405,39 +405,49 @@ Gaining some understanding of Object oriented programming, scratching the surfac
 I was watching the video on for loops, and before the teacher said what he was going to do, I added the property of whatever.length to the for loop instead of just i = 3. I know that doesn't sound huge, but it is for me to have known where the instructor was going to go before he did. It just shows that I AM retaining stuff and not just mindlessly coding :D Also I asked a question on my Web Developer course concerning whether or not I should advance or stop and find some more things to practice. I was advised to continue on, and also given a link to another thread that went into some really good stuff, which also lead to some more links to more really good stuff. Lots of reading in my future :)
 
  ### Day 59: July 29, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 2 hours 50% through Watch and Code
+  Worked on Watch and Code, also did some Free Code Camp.
 **Thoughts*
+
+Today's coding went great. Tomorrow I'm driving 3 and a half hours to for my first meet with my not so local Free Code Camp group. I discovered the group on the FCC forum. I made first contact, lol. Anyway, it will be fun meeting up with some fellow coders. At some point I may have to put together some sort of coding group here. Surely I can't be the only one in this area learning this stuff.
 
  ### Day 60: July 30, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 30 min Free Code Camp
+  Made some progress on the FCC site. Spent some time working on wrappng my head around switches and breaks.
 **Thoughts*
 
+I didn't get as much as I wanted done. That being said, the meetup was a blast. I connected with 3 or 4 people in the group. Looking forward to getting to know them. Totally worth the almost 4 hour drive.
 
 #############################################################################################################################
 
 
  ### Day 61: July 31, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour FCC, Watch and Code
   
 **Thoughts*
+
+Not as much time to code today, wound up working a full shift when I was supposed to only open and get off at 4. Hoping to have more time tomorrow.
 
  ### Day 62: August 1, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour- Watch and Code 55%
+  
   
 **Thoughts*
+
+This course is awesome. I don't understand why I hadn't run into it before. It covers javascript in such a way that goes over "advanced" subjects like ojects, which are usually reserved for later. 
 
 ### Day 63: August 2, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 minutes watch and code: 57%
   
 **Thoughts*
 
+barely managed to get in any coding today. been having some computer issues, so trying to sort them out.
 ### Day 64: August 3, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 minutes - SoloLearn
   
 **Thoughts*
 
+Still had Did some coding on my phone using the SoloLearn app. It's a good way to practice coding or reinforce concepts. I was able to iron out my computer issues, so hopefully I'll get more done tomorrow.
 ### Day 65: August 4, 2017 
 **Today's Progress**: time: 45 min
   
