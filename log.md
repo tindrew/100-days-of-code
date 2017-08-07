@@ -448,15 +448,21 @@ barely managed to get in any coding today. been having some computer issues, so 
 **Thoughts*
 
 Still had Did some coding on my phone using the SoloLearn app. It's a good way to practice coding or reinforce concepts. I was able to iron out my computer issues, so hopefully I'll get more done tomorrow.
+
 ### Day 65: August 4, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 2 hours - watch and code: 65%
+Moving through the course at a steady pace. added buttons and fields for adding todos and changing them.
   
 **Thoughts*
 
+I really wasn't expecting much out of this course when I first started it. It isnt a really long course but covers javascript in a way that keeps you focused on the project instead of teaching it in a boring fashion. A lot of courses attempt to teach it this way but don't seem to get it done. Really feel like I'm learning a lot from this one, and excited about my future as a developer.
 ### Day 66: August 5, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 2 hours 20 minutes - Watch and code 73%
+
   
 **Thoughts*
+
+This course has been a blast so far! now it is moving away from doing everything in the console, so that all the functionality of the app is there. I feel like I'm really getting a handle on javascript. once I'm done with this one, my plan is to A: finish my Boot Camp course, and also finish my JavaScript Game course. After that, I may work some more on my website and try to get some portfolio things in place. Most of my time currently has been spent learning. I think after finishing those two off I'll be at a good place to start getting some small projects done on my own.
 
 ### Day 67: August 6, 2017 
 **Today's Progress**: time: 45 min
