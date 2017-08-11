@@ -465,31 +465,39 @@ I really wasn't expecting much out of this course when I first started it. It is
 This course has been a blast so far! now it is moving away from doing everything in the console, so that all the functionality of the app is there. I feel like I'm really getting a handle on javascript. once I'm done with this one, my plan is to A: finish my Boot Camp course, and also finish my JavaScript Game course. After that, I may work some more on my website and try to get some portfolio things in place. Most of my time currently has been spent learning. I think after finishing those two off I'll be at a good place to start getting some small projects done on my own.
 
 ### Day 67: August 6, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour Watch and code: 78%
   
 **Thoughts*
 
+Knocked out a huge chunk of the course. Really hoping that by the time I reach my 100 days I'm ready to job hunt but we'll see. I may need to give myself more time. 
 ### Day 68: August 7, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min watch and code: 81%
   
 **Thoughts*
+
+Only a little bit done. This week has been tough trying to cram in coding, but I know that by only putting one foot in front of the other will I complete anything, and so I keep plodding on.
 
 ### Day 69: August 8, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 45 min watch and code: 86%
   
 **Thoughts*
+
+Getting closer to finished. Didnt' have as much time to work on things the last few days. Did some computer work and just bogged down with the todo list.
 
 ### Day 70: August 9, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour Watch and code: 92%
   
 **Thoughts*
 
+The course is starting to get a bit, not tricky, but I know I'm going to need to cover a bit of this material again. Still, I've made huge progress in terms of my overall understanding of the language. Looking forward to more.
 #############################################################################################################################
 
 ### Day 71: August 10, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 45 min Watch and Code: finished,
   
 **Thoughts*
+
+Thoughts about Watch and Code: fantastic course. It covered a bunch of things in javascript that I have yet to see in any other course such as higher order functions and callback functions. I'd heard the terms but never understood what they were. Now I do. I'm still not completely comfortable writing those yet, I will probably need to go back through the course to get a super solid understanding about how they work, but for now I'm finished with it after one time through.
 
 ### Day 72: August 11, 2017 
 **Today's Progress**: time: 45 min
