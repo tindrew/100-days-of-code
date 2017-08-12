@@ -500,10 +500,11 @@ The course is starting to get a bit, not tricky, but I know I'm going to need to
 Thoughts about Watch and Code: fantastic course. It covered a bunch of things in javascript that I have yet to see in any other course such as higher order functions and callback functions. I'd heard the terms but never understood what they were. Now I do. I'm still not completely comfortable writing those yet, I will probably need to go back through the course to get a super solid understanding about how they work, but for now I'm finished with it after one time through.
 
 ### Day 72: August 11, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 1 hour
+  Worked on my website. Restarted it. Finalized a design, a new logo, and began work on basic html and css. 
 **Thoughts*
 
+Now that I've learned a good bit of javascript, it's time to start implementing some into my website. I'm doing a redesign, and I'm planning to at least finish an iteration and hopefully making it live. That's my "project" for the next 10 days or so. Now that I'm nearing my 100 days of code ending, I want to have that finished at least, so I have something to add projects to and for employers to look at.
 ### Day 73: August 12, 2017 
 **Today's Progress**: time: 45 min
   
