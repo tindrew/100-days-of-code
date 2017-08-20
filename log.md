@@ -506,45 +506,58 @@ Thoughts about Watch and Code: fantastic course. It covered a bunch of things in
 
 Now that I've learned a good bit of javascript, it's time to start implementing some into my website. I'm doing a redesign, and I'm planning to at least finish an iteration and hopefully making it live. That's my "project" for the next 10 days or so. Now that I'm nearing my 100 days of code ending, I want to have that finished at least, so I have something to add projects to and for employers to look at.
 ### Day 73: August 12, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 2 hours
+  Still working on website. Implemented most of the html and css.
 **Thoughts*
+
+Work on the website is progressing. I never realized how many times I would redo the thing, lol. It still isn't live yet. I have started learning about Flexbox.
 
 ### Day 74: August 13, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: 1 hour - still working on my website
   
 **Thoughts*
 
+Flexbox seems somewhat easy to use, but it's still a learning process. I think I like it better than just using standard CSS  for moving stuff around.
 ### Day 75: August 14, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour - website work
   
 **Thoughts*
+
+still tweaking the website. I am starting to grasp flexbox. had to make a dummy site to practice some of the way it works. I used to think i'd want to be a full on front end designer. I'm not sure at this point. I might want to be more of a developer, implementing websites and building apps. I might get more aquainted with bootstrap soon. I didn't realize how much 'discovery' would be involved in this process. 
 
 ### Day 76: August 15, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 30 minutes - free code camp 
 **Thoughts*
+
+
+Worked through a few problems on free code camp. didn't have as much time to work on things. The starter in my vehicle is failing, I hope I can make it to payday.
 
 ### Day 77: August 16, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min free code camp
   
 **Thoughts*
+
+The starter on my vehicle failed, been busy trying to get a part, trying to pull out the manifold because Honda thought it would be a great idea to bury the starter behind the manifold, and difficult to acccess any other way. I am still surprised that I have coded every single day non-stop. Not really surprised, since I know what it takes to make a habit. but a part of me is still like "wow, you're still going".
 
 ### Day 78: August 17, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 40 min boot camp course
+ learning basics of Jquery 
 **Thoughts*
 
+I've started back on the boot camp course. I'm up to 56% now. Taking a break from my website. I at least have the basic site done.
+
 ### Day 79: August 18, 2017 
-**Today's Progress**: time: 45 min
-  
+**Today's Progress**: time: 30 min
+  boot camp course 57%
 **Thoughts*
+
+still crawling, but moving forward. that's the important thing.
 
 ### Day 80: August 19, 2017 
 **Today's Progress**: time: 45 min
   
 **Thoughts*
-
+twenty days left. My goal is to finish my bootcamp course, or get as close as I can, and also finish off my website. at least make it 'live'. This has been fun so far. I've uncovered something in myself that I wasn't expecting: a burning desire to write code. To build stuff. That feeling has grown the longer I've done this, I expect that feeling will just keep growing.
 #############################################################################################################################
 
 ### Day 81: August 20, 2017 
