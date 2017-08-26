@@ -557,38 +557,49 @@ still crawling, but moving forward. that's the important thing.
 **Today's Progress**: time: 45 min
   
 **Thoughts*
+
 twenty days left. My goal is to finish my bootcamp course, or get as close as I can, and also finish off my website. at least make it 'live'. This has been fun so far. I've uncovered something in myself that I wasn't expecting: a burning desire to write code. To build stuff. That feeling has grown the longer I've done this, I expect that feeling will just keep growing.
 #############################################################################################################################
 
 ### Day 81: August 20, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min bootcamp course: 58%
+
+Learning Jquery now. 
   
 **Thoughts*
 
+Jquery is fun, and seems easy to do, especially after working with javascript. Looking forward to seeing what I can do with it.
 ### Day 82: August 21, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time:  30 min Worked on website
   
 **Thoughts*
 
+decided to take a stab at using jquery in my website, mainly to try it out and see how it works on an actual site and not just exercises. Even though Jquery seems easy, I haven't memorized it so thank goodness for google. I'll continue working on this a bit and see where I wind up.
 ### Day 83: August 22, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour Website work
   
 **Thoughts*
 
+Spent a lot of time googling how to do things in jquery. When I first started learning to program I thought I would be memorizing more stuff, and just randomly write code out of my head. apparently that's not how it works. Hello, Google.
+*******************************************
 ### Day 84: August 23, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**:missed
   
 **Thoughts*
 
 ### Day 85: August 24, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: missed
   
 **Thoughts*
 
+Spent all of my spare time the last two days working on my SUV. It's the only vehicle we have, and the starter went out on it. I managed to fix that after pulling the manifold to get to the starter, and put it all back together. The vehicle started acting like it was overheating (the guage was running to the hot, although all the fans were runnning, etc) so I took it to the machanic. Turns out that was just a loose wire. They fixed that part, but apparently the vehicle has a bad wheel bearing. What was a two day repair is now going to take at least another week to fix. 
+*******************************************
 ### Day 86: August 25, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 mins: exercises on soloLearn
   
 **Thoughts*
+
+I struggled with these. I'm just not feeling it after dealing with the stress of my car problem. It's my family's only vehicle, so I've been having to rely on rides for about a week, and now it will be at least another week before it's fixed. Hoping it doesn't cost a fortune. Need to pull my head out of my ass and get to coding. Will try to get more done tomorrow.
 
 ### Day 87: August 26, 2017 
 **Today's Progress**: time: 45 min
