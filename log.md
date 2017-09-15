@@ -602,10 +602,11 @@ Spent all of my spare time the last two days working on my SUV. It's the only ve
 I struggled with these. I'm just not feeling it after dealing with the stress of my car problem. It's my family's only vehicle, so I've been having to rely on rides for about a week, and now it will be at least another week before it's fixed. Hoping it doesn't cost a fortune. Need to pull my head out of my ass and get to coding. Will try to get more done tomorrow.
 
 ### Day 87: August 26, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour exercises on Code Fights, worked on my website
   
 **Thoughts*
-
+  
+  Tried out Codefights for the first time. The exercises are fun. I am now beginning to think through the problems instead of just trying to code them out. I'm sure everyone does it differently. I'm now learning the process of pseudo-code. I write out what I need to have done, then I think about what I need to have in order to solve the problem and write that out. I'm still learning my process of course, I don't know exactly how it's going to be, but it's a start. And it's fun!
 ### Day 88: August 27, 2017 
 **Today's Progress**: time: 45 min
   
