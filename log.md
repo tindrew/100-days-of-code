@@ -607,78 +607,99 @@ I struggled with these. I'm just not feeling it after dealing with the stress of
 **Thoughts*
   
   Tried out Codefights for the first time. The exercises are fun. I am now beginning to think through the problems instead of just trying to code them out. I'm sure everyone does it differently. I'm now learning the process of pseudo-code. I write out what I need to have done, then I think about what I need to have in order to solve the problem and write that out. I'm still learning my process of course, I don't know exactly how it's going to be, but it's a start. And it's fun!
+  
+  
 ### Day 88: August 27, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 minutes Free code camp
   
 **Thoughts*
+
+Finally finished a challenge I was stuck on, which I had skipped a long time ago, called counting cards. I finally found a solution which makes me very happy since I mostly wrote it myself with a couple of ideas from MDN talking about object properties.
 
 ### Day 89: August 28, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 mins Watched some Udemy videos
   
 **Thoughts*
+
+I'm having trouble getting time in. Still waiting on my car, having to borrow a vehicle once in awhile and hitching rides.
+I didn't realize how much personal problems can affect focus, but it really does. I'm hanging on though.
 
 ### Day 90: August 29, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min Watched more Udemy Videos
   
 **Thoughts*
 
+Not a lot to write today. Just trying to keep moving forward as much as I can.
 #############################################################################################################################
 
 ### Day 91: August 30, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: Missed
   
 **Thoughts*
 
 ### Day 92: August 31, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: Missed
   
 **Thoughts*
 
 ### Day 93: September 1, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: Missed
   
 **Thoughts*
 
 ### Day 94: September 2, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min Solo Learn
+  
   
 **Thoughts*
 
+Managed to squeeze in some sololearn. still fighting with the vehicle situation. 
+
 ### Day 89: September 3, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: Missed
   
 **Thoughts*
 
 ### Day 95: September 4, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 min CodinGame
   
 **Thoughts*
 
+Discovered CodingGame. It's another type of "challenge" website that you solve problems, only this one involves games. I'm hoping to do more on this site especially since I love games :P
 ### Day 96: September 5, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 30 mins CodinGame
   
 **Thoughts*
 
+The challenges are quite difficult on this site, which I don't mind because it stretches my brain. It may be that these things will take longer though.
 ### Day 97: September 6, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: 30 minutes watched some Bootstrap videos
   
 **Thoughts*
+
+Trying to implement bootstrap into my website, so I'm trying to get a better handle on it. It doesn't seem too hard, but it's nice to see how thing are implemented since just reading the docs isn't a great help initially.
 
 ### Day 98: September 7, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time:30 min codefights
   
 **Thoughts*
+
+Really loving code fights. It really makes my brain hurt trying to solve things, but it's so much fun. I think I'm starting to finally stretch about a bit. Also, Got my vehicle back so I finally have that stressor done with. It still needs a couple things, but in the meantime It's very drivable.
 
 ### Day 99: September 8, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 1 hour You don't Know JS: Up and Going
   
 **Thoughts*
 
+Seems like a really great book so far. The first bit has been mainly review, I don't think I've really picked up anything new yet. Looking forward to getting deeper in it. 
+
 ### Day 100: September 9, 2017 
-**Today's Progress**: time: 45 min
+**Today's Progress**: time: 4 hours: challenges on free code camp, some more YDKJS
   
 **Thoughts*
 Final Day!!!
+
+I have been coding for three months now. I am amazed at what I know, and sometimes terrified at what I don't. Parts of me think I should be able to plop down and write code with no trouble, but I keep forgetting that I wasn't able to write music just after 3 months of lessons. I took 10-11 years of lessons before I really started writing music. I don't think coding will take me that long, I definitely have a good grasp of things, and as I do challenges and complete them without looking at things I realize I and starting to get the hang of it. I am writing code. I'm going to be successful. This 100 days hasn't been perfect. I missed some days. I was hugely stressed out due to my car situation and being the only income coming in it was difficult. But I think that after doing this for so long, I have learned that not only can I code, but I enjoy it and it's something that I'm sure over time I can turn into a career. Looking forward to the next 100 days.
 
   
 
